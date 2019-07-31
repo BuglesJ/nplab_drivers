@@ -54,3 +54,4 @@ class Keithley_2200(VisaInstrument):
             self.reset()
 
         self.connect_message()
+
